@@ -4,7 +4,7 @@
 - [ ] Clone/add remote/push to your own repository
 - [ ] Read carefully (my spelling/grammer are terrible, and I'm not spending time to double check)
 - [ ] change all hjmjohnson to your class organization or personal github site.
-- [ ] 
+- [ ] I assume your github id is ysyoo.  Fix if necessary.
 
 
 This homework is designed to introduce you to the git source code management (SCM) system, and the GitHub (www.github.com) web interface front end to the git SCM reponsitory.
@@ -12,7 +12,7 @@ This homework is designed to introduce you to the git source code management (SC
 You will: 
 1. Make an account on github.com (http://www.wikihow.com/Create-an-Account-on-GitHub)
 1. Make a new public repo in your new github account called "UMBC_HW3" (see https://help.github.com/articles/create-a-repo/)
-1. Invite ( https://help.github.com/articles/inviting-collaborators-to-a-personal-repository/ ) to contribute to your newly created repository.
+1. Invite the user "ysyoo" to contribute to your newly created repository (see https://help.github.com/articles/inviting-collaborators-to-a-personal-repository/ ) .
 1. On your local computer, configure git to remember how to give you attribution for your work. (See section "GIT ATTRIBUTION" near the bottom of this page.
 1. Clone starting files from my reference repository 
       1. ```bash git clone https://github.com/hjmjohnson.git```
@@ -30,11 +30,6 @@ You will:
       1. ```bash git push myrepo```
  
 
-Software Design UMBC Fall 2017
-=======================
-
-This page contains only partial supplementary information related to git.
-This information on this page may be OUTDATED, (web resources change quickly).
 
 GIT ATTRIBUTION
 ===============
@@ -54,7 +49,6 @@ Helpful URLS directly relevant to SWD class
 - [ ] WIKI Markdown      https://guides.github.com/features/mastering-markdown
 - [ ] Java Documentation https://docs.oracle.com/javase/search.html
 - [ ] Git For Windows    https://git-for-windows.github.io
-
 
 Fun :smile: links for in-depth understanding :thumbsup:
 --------
