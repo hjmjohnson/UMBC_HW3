@@ -15,7 +15,7 @@ You will:
 1. Invite the user "ysyoo" to contribute to your newly created repository (see https://help.github.com/articles/inviting-collaborators-to-a-personal-repository/ ) .
 1. On your local computer, configure git to remember how to give you attribution for your work. (See section "GIT ATTRIBUTION" near the bottom of this page.
 1. Clone starting files from my reference repository 
-      1. ```bash git clone https://github.com/hjmjohnson.git```
+      1. ```bash git clone https://github.com/tsyoo/UMBC_HW3.git```
 1. Enter the newly downloaded local git repository directory called "UMBC_HW3"
 1. Create a new ASCII text file called "MyInformation.txt" (inside the UMBC_HW3 directory).  Use Notepad/vim/emacs/pico/nano/gedit or any other plain ascii text editor. Do not use a word processing application like Microsoft Word.
       1. Add your name to the top line
@@ -29,7 +29,6 @@ You will:
 1. Syncronize your local git repository with your remote github repository
       1. ```bash git push myrepo```
  
-
 
 GIT ATTRIBUTION
 ===============
